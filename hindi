@@ -1,3 +1,58 @@
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#url-tvg="http://rstream.me/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+
+#EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",HDR Prime
+http://iptv.hdsindia.com:2574/udp/227.10.10.76:4640
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Education",AP BIE SCIENCE
+https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_SCIENCE
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Education",AP BIE ARTS
+https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_ARTS
+
+EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Education",AP CIE SIVE
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
+https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=BBC_World_News
+
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
+http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",Power TV
+http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
+http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="News",AB5 News
+http://183.87.51.10/hls/sungroup.m3u8
+
+#EXTINF:-1 tvg-id="Teja Tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Tejatv.jpg" group-title="News",Teja TV
+http://telugusolutions.com/tejatv/tejatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
+http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
+http://telugusolutions.com/dbr12/dbr12/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
+http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
+http://telugusolutions.com/rk9news/rk9news/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
+http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Movies",Bhavya TV
+http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|HINDI| DESI PLUS" tvg-logo="https://i.imgur.com/GRLq4oJ.png" group-title="", DESI PLUS
 http://carre.flysat.live:80/152062083303767/152048915586075/73946
 #EXTINF:-1 tvg-id="" tvg-name="|HINDI| ZEE ACTION" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="", ZEE ACTION
